@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{882631CF-8C11-434F-B058-ED88C21DE939}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQLite/App.xaml.cs">
+    <Files>
+      <File FileName="SQLite/MainPage.xaml.cs" Line="32" Column="1" />
+      <File FileName="SQLite/MainPage.xaml" Line="12" Column="33" />
+      <File FileName="SQLite/Aluno.cs" Line="14" Column="17" />
+      <File FileName="SQLite/App.xaml.cs" Line="12" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SQLite.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.SQLite.iOS FirstBuild="True" />
+</Properties>
